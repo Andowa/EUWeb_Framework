@@ -1,6 +1,6 @@
-![release](https://img.shields.io/github/v/release/EuFrame/framework?include_prereleases&style=social) 
-![license](https://img.shields.io/github/license/EuFrame/EU-api?style=social) 
-![size](https://img.shields.io/github/languages/code-size/EuFrame/framework?style=social) 
+![release](https://img.shields.io/github/v/release/Andowa/EUWeb_Framework?include_prereleases&style=social) 
+![license](https://img.shields.io/github/license/Andowa/EUWeb_Framework?style=social) 
+![size](https://img.shields.io/github/languages/code-size/Andowa/EUWeb_Framework?style=social) 
 ### English | [简体中文](http://frame.eqmemory.cn/baike)
 #### Introduction
 EuFrame Framework (EU) is based on PHP multi-end development framework, class library perfect, suitable for the development of various types of applications.
