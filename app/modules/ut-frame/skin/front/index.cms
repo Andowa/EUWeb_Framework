@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><{$title}></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=EUf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="EU Framework" />
+    <meta name="Description" content="EuFrame.com" />
+</head>
+<body>
+<div style='width:400px;padding:10px;'>
+    <p>/**</p> 
+    <p>* The framework runs successfully.</p> 
+    <{if $setup==0}><p>* Visual development package not installed.</p><{/if}>
+    <p>* --------------------------------------------------------</p>      
+    <p align='center'><img src="/app/assets/EU-logo.png"></p>
+    <p>*   AEUhor:HuangDou   Email:EuFrame@qq.com</p>
+    <p>*   QQ-Group:583610949</p>
+    <p>*   WebSite:http://www.EuFrame.com</p>
+    <p>*   EU Framework is suitable for Apache2 protocol.</p>
+    <p>* --------------------------------------------------------</p>
+    <p>*/</p>
+</div>
+</body>
+</html>
